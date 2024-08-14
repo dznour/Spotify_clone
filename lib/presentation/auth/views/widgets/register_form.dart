@@ -69,6 +69,7 @@ class _RegisterFormState extends State<RegisterForm> {
                   height: 15,
                 ),
                 TextFormField(
+                  obscureText: true,
                   decoration: InputDecoration(
                     hintText: 'Password',
                     suffixIcon: GestureDetector(

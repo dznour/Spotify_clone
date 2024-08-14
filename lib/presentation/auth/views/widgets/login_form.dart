@@ -57,6 +57,7 @@ class _LoginFormState extends State<LoginForm> {
                   height: 15,
                 ),
                 TextFormField(
+                  obscureText: true,
                   decoration: InputDecoration(
                     hintText: 'Password',
                     suffixIcon: GestureDetector(
