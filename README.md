@@ -23,7 +23,7 @@ https://www.figma.com/community/file/1172466818809176172/spotify-redesign-free-u
 
 Here are some screenshots of the app:
 
-![Splash Screen](screenshots/01-splash.png)
+![Splash Screen]([screenshots/01-splash.png](https://raw.githubusercontent.com/dznour/Spotify_clone/main/screenshots/01%20-splash.png))
 ![Get Started](screenshots/02-get-started.png)
 ![Theme Mode](screenshots/03-theme-mode.png)
 ![Theme Mode Light](screenshots/04-theme-mode-light.png)
