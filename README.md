@@ -22,19 +22,20 @@ https://www.figma.com/community/file/1172466818809176172/spotify-redesign-free-u
 ## Screenshots
 
 Here are some screenshots of the app:
+![Splash Screen](https://github.com/user-attachments/assets/80669a80-69e5-4f10-8ffa-e97d61704d0b)
+![Get Started](https://github.com/user-attachments/assets/d2c57dd5-e512-4163-9f93-8543b504e536)
+![Theme Mode](https://github.com/user-attachments/assets/8b990383-a6d1-4cc7-96ed-1139fda1b816)
+![Theme Mode (Light)](https://github.com/user-attachments/assets/cb68eb13-1e9a-4908-98c5-4844d1957265)
+![Authentication Page (Light)](https://github.com/user-attachments/assets/e1e7eafe-1f01-4f11-9c17-28554cfe2c01)
+![Authentication Page (Dark)](https://github.com/user-attachments/assets/04eacb15-3846-4f83-9001-58d6a6a5ae0a)
+![Sign Up Page (Light)](https://github.com/user-attachments/assets/b6cf41f7-037f-4e54-bb1e-0e35ec168e49)
+![Sign Up Page (Dark)](https://github.com/user-attachments/assets/28c56b1d-e14b-4445-b87b-a189ff7ce9d5)
+![Sign Up Loading](https://github.com/user-attachments/assets/a03c1824-dd18-4a4f-8de3-936897ece41e)
+![Home Page (Light)](https://github.com/user-attachments/assets/1486a80a-95ec-4c8f-b26a-e04c09a0fb7d)
+![Home Page (Dark)](https://github.com/user-attachments/assets/0a1e6ce8-c5d3-4b05-b15e-325bf4dd6cb5)
+![Song Player](https://github.com/user-attachments/assets/949e95b5-a78e-4e3f-b4de-5fa9082c072a)
+![Profile Page (Light)](https://github.com/user-attachments/assets/5d2499d6-a02f-4581-b5e5-bfeb5b4ab85c)
+![Profile Page (Dark)](https://github.com/user-attachments/assets/08a7bd3e-efc5-4150-a0e3-26d593ccef5d)
 
-![Splash Screen]([screenshots/01-splash.png](https://raw.githubusercontent.com/dznour/Spotify_clone/main/screenshots/01%20-splash.png))
-![Get Started](screenshots/02-get-started.png)
-![Theme Mode](screenshots/03-theme-mode.png)
-![Theme Mode Light](screenshots/04-theme-mode-light.png)
-![Auth Page Light](screenshots/05-auth-page-light.png)
-![Auth Page Dark](screenshots/06-auth-page-dark.png)
-![Signup Light](screenshots/07-signup-light.png)
-![Signup Dark](screenshots/08-signup-dark.png)
-![Signup Loading](screenshots/09-signup-loading.png)
-![Home Light](screenshots/10-home-light.png)
-![Home Dark](screenshots/11-home-dark.png)
-![Song Player](screenshots/12-song-player.png)
-![Profile Light](screenshots/13-profile-light.png)
-![Profile Dark](screenshots/14-profile-dark.png)
 
+###Enjoy Coding!
